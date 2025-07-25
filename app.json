@@ -1,5 +1,5 @@
 {
-  "name": "MAFIA-MD",
+  "name": "KAS-MD",
   "description": "Javascript WhatsApp bot made by ᴇᴍᴘᴇʀᴏʀ sᴜᴋᴜɴᴀ",
   "logo": "https://files.catbox.moe/ctrbmt.jpg",
   "keywords": ["MAFIA-MD"],
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "MAFIA-MD"
+      "value": "KAS-MD"
     }, 
       
     "PREFIX": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MAFIA MD"
+      "value": "KAS MD"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴍᴘᴇʀᴏʀ sᴜᴋᴜɴᴀ*"
+      "value": "> *`MADE BY KAS TECHNOLOGIA`*"
     },
 
       "DELETE_LINKS": {
