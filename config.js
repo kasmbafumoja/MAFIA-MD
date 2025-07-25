@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "MAFIA~MD~O4JnEa4I#9Wjb1_JwFUv3bwQIBQdVVhHtha_uvm4MKgA5LoizJng", 
+SESSION_ID: process.env.SESSION_ID || "MAFIA~MD~3hIyySwC#s5FjvBvPWfVTxfvov3R6ps3EvQ6jaBt-jXSEOrzdVDw", 
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -37,13 +37,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2250501889640",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "243994158410",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ᴇᴍᴘᴇʀᴏʀ sᴜᴋᴜɴᴀ",
+OWNER_NAME: process.env.OWNER_NAME || "IR   TERMUX",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴍᴘᴇʀᴏʀ sᴜᴋᴜɴᴀ*",
 // add bot owner name    
-LIVE_MSG: process.env.LIVE_MSG || ">  *MAFIA MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || ">  *KAS MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
