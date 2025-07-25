@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "MAFIA-MD",
+    "bot-name": "KAS-MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot by MarcTech",
     "logo": "https://i.ibb.co/3yftbcJg/Unknown-11.jpg",
     "keywords": ["bot"],
@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with MAFIA~MD~  or get session id from here,  https://mega-session-pair.onrender.com",
+        "description": "Put your SESSION_ID here. Make sure it starts with KAS-MD~  or get session id from here,  https://mega-session-pair.onrender.com",
         "value":"",
         "required": true
         
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐌AFIA-MD"
+      "value": "KAS-MD"
   
     },
     
@@ -77,7 +77,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝐌AFIA-𝐌𝐃 BOT VIEWED YOUR STATUS *"
+      "value": "*KAS-𝐌𝐃 BOT VIEWED YOUR STATUS *"
    
      }, 
     
@@ -97,7 +97,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌AFIA-𝐌𝐃"
+      "value": "KAS-𝐌𝐃"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *©  ᴘᴏᴡᴇʀᴇᴅ ʙʏ MarcTech*"
+      "value": "> *©  KAS-MD ʙʏ MarcTech*"
     },
 
       "DELETE_LINKS": {
