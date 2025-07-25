@@ -1,6 +1,6 @@
-name: kas-md
+name: maafia-md
 services:
-  - name: kas-md-service
+  - name: mafia-md-service
     type: web
     ports:
       - 5000
